@@ -18,7 +18,7 @@ This problem is classified as NP-hard in the field of combinatorial optimization
 - genetic.hpp - contains implementation of genetic metaheuristic
 - graph.hpp - basic graph implementation
 - local-search.hpp - contains implementation of local-search heuristic
-- simulated-annealing.hpp - contains implementation of local-search metaheuristic
+- simulated-annealing.hpp - contains implementation of simulated-annealing metaheuristic
 - tabu-search.hpp - contains implementation of tabu-search metaheuristic
 - tsp.cpp - main file with tests for all implemented techniques
 - utils.hpp - some graph functions
